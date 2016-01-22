@@ -1,0 +1,23 @@
+{
+  "name": "animoowriter",
+  "description": "\"App for writing animoo reviews\"",
+  "main": "",
+  "authors": [
+    "David Ayeke <ayekedavid@yahoo.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-material": "~1.0.2"
+  }
+}
